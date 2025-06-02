@@ -1,7 +1,9 @@
 # 👋 Hi, I'm K Manoj
 
-🎓 I'm an engineering student passionate about technology, open-source, and impactful innovation. With hands-on experience in software development and a strong foundation in data structures, OOP, and system design, I'm eager to contribute to dynamic tech teams and real-world projects.
+🎓 I'm an engineering student passionate about technology, open-source, and impactful innovation. With hands-on experience in software development and a strong foundation in data structures and OOP's. I'm eager to contribute to dynamic tech teams and real-world projects.
 
+---
+## 👨‍💻 Experience: Fresher
 ---
 
 ## 🔧 Tech Stack
@@ -55,5 +57,5 @@ Government Polytechnic College, Kampi
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 

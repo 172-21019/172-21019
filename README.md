@@ -22,10 +22,6 @@
 *A Java Swing desktop app with MySQL backend*  
 Helps manage freelance project assignments, track status, handle feedback, and integrate admin-client roles.
 
-### 🔹 Movie Anti-Piracy System (Prototype) - currently researching  
-*Anti-piracy using steganography + AES encryption*  
-Embeds unique theater license IDs into movie frames using DCT and encryption for tracking piracy.
-
 ---
 
 ## 📚 Education

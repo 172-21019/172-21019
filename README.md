@@ -48,7 +48,7 @@ Government Polytechnic College, Kampi
 
 - 👨‍💻 Fullstack Development Intern at Infidata Technologies  
 - 🗣 Languages: English, Hindi, Kannada, Telugu  
-- 🎯 Interests: Open-source, UI/UX Design, Cybersecurity, DSA problem-solving  
+- 🎯 Interests: SDE roles, Open-source, problem-solving
 - 🧠 Always curious, always learning
 
 ---

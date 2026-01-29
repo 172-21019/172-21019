@@ -1,57 +1,46 @@
-# 👋 Hi, I'm K Manoj
+# K Manoj
 
-🎓 I'm an engineering student passionate about technology, open-source, and impactful innovation. With hands-on experience in software development and a strong foundation in data structures and OOP's. I'm eager to contribute to dynamic tech teams and real-world projects.
+## Summary
+Passionate and detail-oriented engineering student with strong foundation in computer science, leadership,
+debugging and time management skills. Eager to apply problem-solving skills to innovative and efficient
+software solutions.
 
----
-## 👨‍💻 Experience: Fresher
----
+## Education
+2024 - 2027 Bachelor’s of Engineering in Information Science and Engineering at BMS Institute of
+Technology, Bangalore (CGPA: 8.2)
 
-## 🔧 Tech Stack
+2024 Diploma in Computer Science and Engineering atGovernment Polytechnic College,
+Kampli (CGPA:9.39)
 
-- **Languages:** C, Java, Python  
-- **Web:** HTML, CSS, JavaScript  
-- **Frameworks:** Java Swing, React  
-- **Tools & Platforms:** Git, GitHub, MySQL, VS Code, Eclipse  
-- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems
+## Work Experience
+Full-stack Web Development Intern, Infidata Technologies Jan 2024 - Apr 2024  
+Contributed to a project Home Movers Web Application by implementing server-side logic and man￾aging database architecture. Applied debugging skills to resolve technical issues, ensuring the software’s
+reliability and performance.
 
----
+## Projects
+### Freelancing project tracking system  
+Link to more details  
+A Java-based desktop application that reduced project tracking errors and improved feedback turnaround
+for Admin and Clients. Built using Java Swing and MySQL, this system supports role-based access for
+Admin and Clients, offering seamless project assignment, tracking, and feedback features.
 
-## 💼 Projects
+### Traffic Prediction System Using Hybrid Models  
+Link to more details  
+Developed a hybrid–based traffic prediction system using Python to analyze historical traffic data and
+real-time data. The project predicts traffic conditions by training and evaluating models. Prediction
+results are generated in CSV format for easy analysis and decision-making.
 
-### 🔹 Freelancer Project Tracker  
-*A Java Swing desktop app with MySQL backend*  
-Helps manage freelance project assignments, track status, handle feedback, and integrate admin-client roles.
+## Technical Skills
+Languages: C, Java, Python, JavaScript  
+Web: HTML, CSS  
+Database: SQL  
+API: REST API  
+Tools: Git, GitHub, Docker, Postman, Xampp, MySQL  
+Frameworks: Java Swings, React,PHP  
+Core concepts: Data Structures and Algorithms, Object Oriented Programming, Database Management,
+Operating Systems, Computer network, Software Engineering, Computer Architecture Fundamentals
 
----
-
-## 📚 Education
-
-**Bachelor of Engineering in ISE 4th sem(Persuing)**  
-BMS Institute of Technology & Management, Bangalore  
-📊 CGPA: 8.57
-
-**Diploma in Computer Science**  
-Government Polytechnic College, Kampi  
-📊 CGPA: 9.39
-
----
-
-## 🌐 Let's Connect
-
-- 📧 Email: [k.manoj2522005@gmail.com](mailto:k.manoj2522005@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/k-manoj-a39a48277](https://www.linkedin.com/in/k-manoj-a39a48277)  
-- 💻 GitHub: [github.com/172-21019](https://github.com/172-21019)
-
----
-
-## 🌟 About Me
-
-- 👨‍💻 Fullstack Development Intern at Infidata Technologies  
-- 🗣 Languages: English, Hindi, Kannada, Telugu  
-- 🎯 Interests: SDE roles, Open-source, problem-solving
-- 🧠 Always curious, always learning
-
----
-
-
-
+## Soft Skills
+Strong problem-solving and analytical thinking  
+Good written and verbal communication skills  
+Ability to quickly learn new systems and infrastructure technologies

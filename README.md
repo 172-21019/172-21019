@@ -1,46 +1,91 @@
-# K Manoj
+## 📄 Resume – K Manoj
 
-## Summary
-Passionate and detail-oriented engineering student with strong foundation in computer science, leadership,
-debugging and time management skills. Eager to apply problem-solving skills to innovative and efficient
-software solutions.
+🔗 **[View / Download Resume (PDF)](K_Manoj_Software_Engineer_Resume.pdf)**
 
-## Education
-2024 - 2027 Bachelor’s of Engineering in Information Science and Engineering at BMS Institute of
-Technology, Bangalore (CGPA: 8.2)
+---
 
-2024 Diploma in Computer Science and Engineering atGovernment Polytechnic College,
-Kampli (CGPA:9.39)
+## **K Manoj**
 
-## Work Experience
-Full-stack Web Development Intern, Infidata Technologies Jan 2024 - Apr 2024  
-Contributed to a project Home Movers Web Application by implementing server-side logic and man￾aging database architecture. Applied debugging skills to resolve technical issues, ensuring the software’s
-reliability and performance.
+[manoj-a39a48277](www.linkedin.com/in/k-manoj-a39a48277) | [k.manoj2522005@gmail.com](mailto:k.manoj2522005@gmail.com) 
 
-## Projects
-### Freelancing project tracking system  
-Link to more details  
-A Java-based desktop application that reduced project tracking errors and improved feedback turnaround
-for Admin and Clients. Built using Java Swing and MySQL, this system supports role-based access for
-Admin and Clients, offering seamless project assignment, tracking, and feedback features.
+---
 
-### Traffic Prediction System Using Hybrid Models  
-Link to more details  
-Developed a hybrid–based traffic prediction system using Python to analyze historical traffic data and
-real-time data. The project predicts traffic conditions by training and evaluating models. Prediction
-results are generated in CSV format for easy analysis and decision-making.
+## **Education**
 
-## Technical Skills
-Languages: C, Java, Python, JavaScript  
-Web: HTML, CSS  
-Database: SQL  
-API: REST API  
-Tools: Git, GitHub, Docker, Postman, Xampp, MySQL  
-Frameworks: Java Swings, React,PHP  
-Core concepts: Data Structures and Algorithms, Object Oriented Programming, Database Management,
-Operating Systems, Computer network, Software Engineering, Computer Architecture Fundamentals
+**Bachelor of Engineering in Information Science and Engineering**
+BMS Institute of Technology, Bengaluru (2024–2027)
+**CGPA:** 8.3
 
-## Soft Skills
-Strong problem-solving and analytical thinking  
-Good written and verbal communication skills  
-Ability to quickly learn new systems and infrastructure technologies
+**Diploma in Computer Science and Engineering**
+Government Polytechnic College, Kampli (2021–2024)
+**CGPA:** 9.3
+
+**SSLC**
+Bright Way Higher Primary School, Kampli (2020–2021)
+**Percentage:** 85.6%
+
+---
+
+## **Work Experience**
+
+### **Full Stack Web Developer Intern**
+
+**Infidata Technologies Pvt. Ltd.** | *Jan – Apr 2024*
+
+* Utilized HTML, CSS, and JavaScript to enhance the user interface, ensuring a smoother user experience.
+* Developed server-side logic, resulting in **~90% smoother system operations**.
+* Delivered a complete full-stack web application by integrating frontend and backend components, ensuring seamless operation.
+
+---
+
+## **Projects**
+
+### **Freelancing Project Tracking System – Full Stack Java Desktop Application** [🔗](https://github.com/172-21019/freelancing-project-tracking-system)
+
+**Skills:** Java, JDBC, Java Swing, MySQL
+
+* Designed a Java-based desktop application using Java Swing and MySQL to manage and track freelance projects.
+* Developed secure role-based login and access control for **2 user roles (Admin, User)**, ensuring personalized views.
+* Implemented project assignment and status tracking across **3 lifecycle stages (Pending / Accepted / Completed)** with feedback features.
+* Integrated JDBC with MySQL for efficient database operations using **4 core tables** (users, credentials, projects, project count).
+* Created a responsive dashboard for Admin and Clients, enabling real-time project monitoring.
+
+### **Traffic Prediction System Using Hybrid Models – Mini Project** [🔗](https://github.com/172-21019/traffic_prediction_project)
+
+**Skills:** Python, Machine Learning, Deep Learning (LSTM), Data Analysis, APIs, Streamlit
+
+* Engineered a hybrid traffic prediction system combining **4 ML models** (Random Forest, XGBoost, Extra Trees, Linear Regression) with an **LSTM network**, achieving **~93–95% accuracy**.
+* Implemented data preprocessing and feature engineering pipelines for historical traffic, temporal, and weather data, reducing MAE and RMSE.
+* Integrated real-time weather and traffic flow data using **2 external APIs** for city-level and route-level forecasting.
+* Built congestion classification modules across **3 levels (Low, Moderate, Heavy)** with high R² scores.
+* Deployed an interactive Streamlit dashboard to visualize predictions, congestion zones, and model performance metrics.
+
+---
+
+## **Technical Skills**
+
+* **Languages:** Java (Proficient), Python, JavaScript, SQL
+* **Full Stack Development:** HTML, CSS, JavaScript, Java Backend, PHP
+* **APIs:** REST API
+* **Tools:** Git, GitHub, Docker, Postman, XAMPP, MySQL
+* **Frameworks:** Java Swing, React, PHP
+* **Core Concepts:**
+Data Structures and Algorithms, Object-Oriented Programming, Operating Systems (Linux),
+Database Management Systems, Computer Networks, Cloud Computing, Computer Architecture Fundamentals
+
+---
+
+## **Achievements & Certifications**
+
+* Secured **Top 4% rank** in the DCET competitive examination.
+* Certified in **Full Stack Web Development** (Infidata Technologies), **Java Skilled Programming** (Hack Veda),
+  **Technology Job Simulation** (Deloitte), and **Master in Generative AI** (Udemy). [🔗](https://github.com/172-21019/Certificates)
+
+---
+
+## **Soft Skills**
+
+* Structured troubleshooting and data-driven reasoning
+* Ability to adapt to new environments
+* Clear technical communication with team coordination and leadership mindset
+

@@ -6,9 +6,6 @@
 
 ## **K Manoj**
 
-[manoj-a39a48277](www.linkedin.com/in/k-manoj-a39a48277) | [k.manoj2522005@gmail.com](mailto:k.manoj2522005@gmail.com) 
-
----
 
 ## **Education**
 
@@ -64,14 +61,15 @@ Bright Way Higher Primary School, Kampli (2020–2021)
 
 ## **Technical Skills**
 
-* **Languages:** Java (Proficient), Python, JavaScript, SQL
-* **Full Stack Development:** HTML, CSS, JavaScript, Java Backend, PHP
+* **Languages:** Java (Proficient), Python, SQL 
+* **Full Stack Development:**  HTML, CSS, JavaScript, Angular, Node.js, Mongo DB
 * **APIs:** REST API
-* **Tools:** Git, GitHub, Docker, Postman, XAMPP, MySQL
-* **Frameworks:** Java Swing, React, PHP
+* **Tools:** GitHub, Docker, Amazon Web Services (AWS), Postman, Xampp, MySQL
+* **Frameworks:** Java Swing, React.js 
 * **Core Concepts:**
-Data Structures and Algorithms, Object-Oriented Programming, Operating Systems (Linux),
-Database Management Systems, Computer Networks, Cloud Computing, Computer Architecture Fundamentals
+Data Structures and Algorithms, Object Oriented Programming, Operating Systems (Linux), 
+Database Management System, Computer Networks, Cloud Computing, Computer Architecture Fundamentals, Backend, 
+Software Development Life Cycle (SDLC) 
 
 ---
 
